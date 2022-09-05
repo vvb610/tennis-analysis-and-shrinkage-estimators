@@ -1,3 +1,4 @@
 .DS_STORE
 tennis_slam_pointbypoint-master/.ipynb_checkpoints/*
 code_and_data/.ipynb_checkpoints/*
+*.ipynb_checkpoints/*
